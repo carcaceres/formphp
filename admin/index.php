@@ -1,3 +1,8 @@
+
+<html>
+<head>
+<link rel="icon" href="/validar/assets/images/icon/favicon.png" type="image/x-icon"/>
+</head>
 <?php
 
 
@@ -25,7 +30,7 @@ echo 'Bienvenido Rol Admin '.$user;
 </body>
 
 
-</htlml>
+</html>
 
 
 
