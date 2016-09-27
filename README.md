@@ -5,7 +5,6 @@ Archivo Sql
 
 -- phpMyAdmin SQL Dump
 -- version 4.1.14
--- http://www.phpmyadmin.net
 --
 -- Servidor: 127.0.0.1
 -- Tiempo de generación: 27-09-2016 a las 18:27:41
