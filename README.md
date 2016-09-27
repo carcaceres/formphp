@@ -5,8 +5,12 @@
 
 ![Alt text](https://673b3801-a-62cb3a1a-s-sites.googlegroups.com/site/sitecaceres/pagina1/mr.png?attachauth=ANoY7crve9wEGQmPSt4uMDrMUyMqRcAiQodC1pCCtwx1AVBwPW187UubdWX8xFgqQm_NlwFRpOLcRMnY5Q5l90y8ozL7ca06GKWz5ttA-lGwDOyaRA5x-rAlke5aTrBR_jDn65iaUEBunVe9I7np_8kraaeS4LcBdKtMbwmLdjdyxU7sSSzaEeBWKJQU5SgcYgqsTcQ004JKOtcn1Yfh-IC0cfzaDv5O3Q%3D%3D&attredirects=0 "MR")
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
-
+Crear un Privilegios
+Usuario: pruebacon
+Password: 123456
+servidor: localhost
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
