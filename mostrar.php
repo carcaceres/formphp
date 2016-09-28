@@ -24,9 +24,10 @@
 
 
 <div id="contenedor" class="panel panel-default">
-<div class="form-group">
+<div id="Loading"><img src="./assets/images/load.gif" alt="load" ></div>
     <div class="panel-heading"><center><h2><strong>Busqueda de Usuarios</strong></h2></center></div>
 <div class="panel-body">
+<div class="form-group">
 
 <input type="text" class="form-control" id="usuario" placeholder="Ingresa Busqueda">
 

@@ -17,6 +17,9 @@ function mostrar(){
               console.log(data[i]);
             }
  */
+
+     $("#Loading").hide();
+
             
         });  
 }
@@ -24,10 +27,10 @@ function mostrar(){
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 $(document).ready(function(){
-
+    $("#Loading").hide();
 
 $("#buscar").click(function(){
-
+ $("#Loading").show();
 mostrar();
 });	
 
@@ -36,6 +39,9 @@ mostrar();
 
 
 $("#usuario").click(function(){
+
+    
+
     document.getElementById('resultado').innerHTML="";
 });
 /*
@@ -48,9 +54,13 @@ $( "#usuario" ).keypress(function() {
 
 
 $( "#usuario" ).keyup(function() {
+
+     $("#Loading").show();
    console.log($(this).val().length);
    if($(this).val().length==0){
      document.getElementById('resultado').innerHTML="";
+
+     $("#Loading").hide();
    }
    else{
   mostrar();
