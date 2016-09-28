@@ -128,8 +128,13 @@ ALTER TABLE `login`
 --
 --Crear Vista
 create view vistausuarios
+
  as 
+
  select user,pass,idrol,nomrol 
+
  from rol 
+
  inner join login 
+ 
  on rol.idrol=login.rol
