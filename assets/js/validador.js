@@ -65,7 +65,7 @@ if(passval==''){
 
 if((userval!='') && (passval!='')){
 
-        $.post("validar.php",
+        $.post("./validador/validar.php",
         {
           userparam: userval,
           passparam:passval,

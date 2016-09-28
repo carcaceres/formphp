@@ -18,7 +18,6 @@ echo 'Bienvenido Rol Admin '.$user;
 
 
 
-
 <htlml>
 
 <body>
