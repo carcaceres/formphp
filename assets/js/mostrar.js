@@ -53,20 +53,6 @@ $( "#usuario" ).keypress(function() {
 */
 
 
-$( "#usuario" ).keyup(function() {
-
-     $("#Loading").show();
-   console.log($(this).val().length);
-   if($(this).val().length==0){
-     document.getElementById('resultado').innerHTML="";
-
-     $("#Loading").hide();
-   }
-   else{
-  mostrar();
-}
-});
-
 });
 
  

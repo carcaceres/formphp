@@ -23,10 +23,12 @@
 
 
 
-<div id="contenedor" class="panel panel-default">
+<div id="contenedor" >
 <div id="Loading"><img src="./assets/images/load.gif" alt="load" ></div>
-    <div class="panel-heading"><center><h2><strong>Busqueda de Usuarios</strong></h2></center></div>
-<div class="panel-body">
+    <div ><center><h2><strong>Busqueda de Usuarios</strong></h2></center></div>
+    <br/>
+    <br/>
+    
 <div class="form-group">
 
 <input type="text" class="form-control" id="usuario" placeholder="Ingresa Busqueda">
@@ -38,7 +40,6 @@
 <br/>
 <br/>
 <div id="resultado"></div>
-</div>
 </div>
 <br/>
 <br/>
